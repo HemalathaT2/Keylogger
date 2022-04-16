@@ -1,1 +1,9 @@
 # Keylogger
+
+KEYLOGGER USING PYTHON
+What is a Keylogger?
+A keylogger is an insidious form of spyware. You enter sensitive data onto your keyboard, believing nobody is watching. In fact, keylogging software is hard at work logging everything that you type. Keyloggers are activity-monitoring software programs that give hackers access to your personal data. The passwords and credit card numbers you type, the webpages you visit – all by logging your keyboard strokes. The software is installed on your computer, and records everything you type. Then it sends this log file to a server, where cybercriminals wait to make use of all this sensitive information.
+
+They aren’t always illegal...
+
+Some keyloggers are hardware devices embedded within your internal PC hardware. They also come as a form of a plug placed between the CPU box and keyboard cable in an inconspicuous manner. In either case, someone will have to physically plant the hardware into your PC or its peripherals. This will require a degree of secrecy if it needs to be achieved clandestinely.The second type of keyloggers are software that can be easily installed on victims’ devices. While this software is a type of malware, it is “good” malware, wherein it doesn’t harm its host. Its sole job is to snoop into the keystrokes and not impact the computer. You merrily go about your business, while undetectable keyloggers start stealing personal or sensitive data, without you ever knowing.Usually in Keylogging projects it is only taught how to lock the keys. But just locking the keys doesn’t mean we have built our own keylogger because we may not able to understand the data properly as it would we displayed in a haphazard way. Hence to automate all the process, we have three different faces in my project. At first, we will log the data. Secondly, we will send the data through email and at last we will clean the data.
